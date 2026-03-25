@@ -1,0 +1,17 @@
+# Web Framework
+streamlit
+
+# Data Analysis & Machine Learning
+pandas
+scikit-learn
+joblib
+
+# Natural Language Processing (Korean)
+kiwipiepy
+
+# Deep Learning (HuggingFace)
+transformers
+torch
+
+# Visualization
+plotly
